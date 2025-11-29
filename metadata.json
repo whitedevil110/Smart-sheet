@@ -1,0 +1,5 @@
+{
+  "name": "SmartFinance Sheet",
+  "description": "An automated financial dashboard that behaves like a smart spreadsheet. Enter salary and expenses to instantly calculate savings, generate SIP investment strategies, and receive AI-powered tax planning advice.",
+  "requestFramePermissions": []
+}
